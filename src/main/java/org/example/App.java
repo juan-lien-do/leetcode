@@ -16,8 +16,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        int[] enteros = new int[]{1, 3, 2, 5, 8, 2, 2, 4, 3, 5};
-        System.out.println(new RemoveElement().removeElement(enteros, 2));
-        System.out.println(Arrays.toString(enteros));
+
     }
 }
