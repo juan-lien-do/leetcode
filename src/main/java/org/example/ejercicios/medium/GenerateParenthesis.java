@@ -5,7 +5,6 @@ import java.util.List;
 
 public class GenerateParenthesis {
     public List<String> generateParenthesis(int n) {
-        // TODO
         // we are given n pairs of parenthesis. i have to make a backtracking algo that
         // through 2 parameters (parenthesis remaining, nest level of parenthesis)
         // adds those combinations to the array

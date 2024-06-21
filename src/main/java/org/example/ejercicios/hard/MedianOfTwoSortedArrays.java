@@ -1,6 +1,7 @@
 package org.example.ejercicios.hard;
 
 public class MedianOfTwoSortedArrays {
+    // TODO get this thing working
     /*public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         // now imma make both pointers begin from the top.
         int l1 = nums1.length;

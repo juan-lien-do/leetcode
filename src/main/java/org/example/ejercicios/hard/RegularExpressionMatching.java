@@ -1,7 +1,7 @@
 package org.example.ejercicios.hard;
 
 public class RegularExpressionMatching {
-    // unfinished
+    // TODO get this thing working
     public boolean isMatch(String s, String p) {
         // no empty strings
         boolean sStringIsOver = false;
