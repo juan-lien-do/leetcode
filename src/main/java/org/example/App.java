@@ -15,6 +15,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println(new GrumpyBookstoreOwner().maxSatisfied(new int[]{3}, new int[]{1}, 1));
+        System.out.println(new FindTheIndexOfTheFirstOcurrenceInAString().strStr("sadbutsad", "sad"));
     }
 }
