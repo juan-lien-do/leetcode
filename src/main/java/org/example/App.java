@@ -15,6 +15,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println(new FindTheIndexOfTheFirstOcurrenceInAString().strStr("sadbutsad", "sad"));
+        System.out.println(new NumberOfOneBits().hammingWeight(2147483647));
     }
 }
