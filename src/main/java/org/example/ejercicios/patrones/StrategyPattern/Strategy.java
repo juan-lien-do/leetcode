@@ -1,4 +1,4 @@
-package org.example.ejercicios.StrategyPattern;
+package org.example.ejercicios.patrones.StrategyPattern;
 
 @FunctionalInterface
 public interface Strategy {

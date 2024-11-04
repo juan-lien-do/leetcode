@@ -1,4 +1,4 @@
-package org.example.ejercicios.StrategyPattern;
+package org.example.ejercicios.patrones.StrategyPattern;
 
 public class StratDemo {
     public static void main(String[] args) {
